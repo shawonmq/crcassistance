@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:extension:update-manifest">
+    <em:updates>
+      <Description>
+        <em:version>1.4.2</em:version>
+        <em:updateLink>https://github.com/shawonmq/crcassistance/raw/82a464eca9954bb5b42ed02d6cc8344eb565009c/crc-1.4.2.xpi</em:updateLink>
+      </Description>
+    </em:updates>
+  </Description>
+
+</RDF>
