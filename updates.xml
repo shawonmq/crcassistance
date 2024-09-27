@@ -1,13 +1,15 @@
-
-
-
-<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
-  <Description about="urn:mozilla:extension:{4ca924b4-b692-4064-a34d-2abead9171f6}">
-    <em:updates>
-      <em:update>
-        <em:version>1.4.1</em:version>
-        <em:updateLink>https://raw.githubusercontent.com/shawonmq/crcassistance/main/your_addon.xpi</em:updateLink>
-      </em:update>
-    </em:updates>
-  </Description>
-</RDF>
+{
+  "addons": {
+    "{4ca924b4-b692-4064-a34d-2abead9171f6}": {
+      "updates": [
+                {
+          "version": "1.4.3",
+          "update_link": "https://github.com/shawonmq/crcassistance/raw/ff0eb42998b257fa16ed494bbf171240919338c9/Crc-1.4.2.xpi",
+          "applications": {
+            "gecko": { "strict_min_version": "44" }
+          }
+        }
+      ]
+    }
+  }
+}
