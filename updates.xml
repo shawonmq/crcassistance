@@ -6,7 +6,7 @@
     <em:updates>
       <Description>
         <em:version>1.4.2</em:version>
-        <em:updateLink>https://raw.githubusercontent.com/shawonmq/crcassistance/refs/heads/main/crc-1.4.2.xpi</em:updateLink>
+        <em:updateLink>https://github.com/shawonmq/crcassistance/blob/fedd3e46f66789f1f5bf28f71fe1f9f60f1878b4/Crc%201.4.2.xpi</em:updateLink>
       </Description>
     </em:updates>
   </Description>
