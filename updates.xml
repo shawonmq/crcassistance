@@ -5,8 +5,8 @@
   <Description about="urn:mozilla:extension:update-manifest">
     <em:updates>
       <Description>
-        <em:version>1.4.1</em:version>
-        <em:updateLink>https://raw.githubusercontent.com/shawonmq/crcassistance/refs/heads/main/crc-1.4.1.xpi</em:updateLink>
+        <em:version>1.4.2</em:version>
+        <em:updateLink>https://raw.githubusercontent.com/shawonmq/crcassistance/refs/heads/main/crc-1.4.2.xpi</em:updateLink>
       </Description>
     </em:updates>
   </Description>
