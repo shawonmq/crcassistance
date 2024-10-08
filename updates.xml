@@ -3,8 +3,8 @@
     "{4ca924b4-b692-4064-a34d-2abead9171f6}": {
       "updates": [
                 {
-          "version": "1.5",
-          "update_link": "https://github.com/shawonmq/crcassistance/raw/60dbf419b3517f1d3d9f8320ba715e9780b7ef19/crc-1.5.xpi",
+          "version": "1.6",
+          "update_link": "https://github.com/shawonmq/crcassistance/raw/refs/heads/main/crc-1.6.xpi",
           "applications": {
             "gecko": { "strict_min_version": "44" }
           }
