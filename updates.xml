@@ -4,7 +4,7 @@
       "updates": [
                 {
           "version": "1.29",
-          "update_link": "https://github.com/shawonmq/crcassistance/raw/refs/heads/main/crc-1.29.xpi",
+          "update_link": "https://github.com/shawonmq/crcassistance/raw/refs/heads/main/crc-1.30.xpi",
           "applications": {
             "gecko": { "strict_min_version": "44" }
           }
